@@ -1,0 +1,5 @@
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\DiscountRules\bin\Debug\DiscountRules.exe
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\DiscountRules\bin\Debug\DiscountRules.pdb
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\DiscountRules\obj\x86\Debug\DiscountRules.exe
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\DiscountRules\obj\x86\Debug\DiscountRules.pdb
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\DiscountRules\obj\x86\Debug\DiscountRules.csprojResolveAssemblyReference.cache

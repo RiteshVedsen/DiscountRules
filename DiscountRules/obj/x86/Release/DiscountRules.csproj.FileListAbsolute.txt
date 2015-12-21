@@ -1,0 +1,4 @@
+C:\Users\Ritesh\Documents\Visual Studio 2010\Projects\DiscountRules\DiscountRules\bin\Release\DiscountRules.exe
+C:\Users\Ritesh\Documents\Visual Studio 2010\Projects\DiscountRules\DiscountRules\bin\Release\DiscountRules.pdb
+C:\Users\Ritesh\Documents\Visual Studio 2010\Projects\DiscountRules\DiscountRules\obj\x86\Release\DiscountRules.exe
+C:\Users\Ritesh\Documents\Visual Studio 2010\Projects\DiscountRules\DiscountRules\obj\x86\Release\DiscountRules.pdb

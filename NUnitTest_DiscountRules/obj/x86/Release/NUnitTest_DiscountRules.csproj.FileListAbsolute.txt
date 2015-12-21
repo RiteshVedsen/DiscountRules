@@ -1,0 +1,12 @@
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\obj\x86\Release\NUnitTest_DiscountRules.csprojResolveAssemblyReference.cache
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Release\NUnitTest_DiscountRules.exe
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Release\NUnitTest_DiscountRules.pdb
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Release\DiscountRules.exe
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Release\nunit-console-runner.dll
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Release\nunit.framework.dll
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Release\nunit.util.dll
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Release\nunit.core.interfaces.dll
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Release\nunit.core.dll
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Release\DiscountRules.pdb
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\obj\x86\Release\NUnitTest_DiscountRules.exe
+C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\obj\x86\Release\NUnitTest_DiscountRules.pdb

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Debug\NUnitTest_DiscountRules.exe" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-12-20" time="19:33:45">
+  <environment nunit-version="2.5.10.11092" clr-version="4.0.30319.34209" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Debug" machine-name="RITESHV" user="Ritesh" user-domain="RiteshV" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Ritesh\documents\visual studio 2010\Projects\DiscountRules\NUnitTest_DiscountRules\bin\Debug\NUnitTest_DiscountRules.exe" executed="True" result="Success" success="True" time="1.844" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NUnitTest_DiscountRules" executed="True" result="Success" success="True" time="1.844" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestFixture1" executed="True" result="Success" success="True" time="1.844" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="TestFault" executed="True" result="Success" success="True" time="1.719" asserts="0">
+                <results>
+                  <test-case name="NUnitTest_DiscountRules.TestFixture1.TestFault()" executed="True" result="Success" success="True" time="1.719" asserts="2" />
+                </results>
+              </test-suite>
+              <test-suite type="ParameterizedTest" name="TestTrue" executed="True" result="Success" success="True" time="0.094" asserts="0">
+                <results>
+                  <test-case name="NUnitTest_DiscountRules.TestFixture1.TestTrue()" executed="True" result="Success" success="True" time="0.094" asserts="2" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
